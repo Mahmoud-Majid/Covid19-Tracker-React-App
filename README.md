@@ -4,8 +4,6 @@
 
 ## Introduction
 
-This is a code repository for the corresponding video tutorial.
-
 a full COVID-19 Tracker. using React, Charts.JS and Material UI.
 
 API used: https://covid19.mathdro.id/api
